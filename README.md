@@ -1,4 +1,4 @@
-# _Forms Letter_
+# _AddressBook_
 
 #### _single Webpage for Epicodus, 10.17.2018_
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_A Letter that populates the name entered in a form using jQuery._
+_A webpage contains a form to submit addresses and shows the data when they are clicked_
 
 ## Setup/Installation Requirements
 
